@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Ulysses",
+    "pageNumber": 318,
+    "stock": 5,
+    "price": 20,
+    "stockCode": "123ASF1",
+    "isbn": "9780758328007",
+    "authorId": 1
+  },
+  {
+    "id": 2,
+    "name":"Hamlet",
+    "pageNumber": 104,
+    "stock": 5,
+    "price": 10,
+    "stockCode": "123ASF2",
+    "isbn": "9780758328006",
+    "authorId": 2
+  },
+  {
+    "id": 3,
+    "name": "War and Peace",
+    "pageNumber": 1225,
+    "stock": 5,
+    "price": 50,
+    "stockCode": "123ASF3",
+    "isbn": "9780758328005",
+    "authorId": 3
+  },
+  {
+    "id": 4,
+    "name": "Lord Of The Rings",
+    "pageNumber": 777,
+    "stock": 1,
+    "price": 100,
+    "stockCode": "123ASF4",
+    "isbn": "9780758328004",
+    "authorId": 4
+  }
+]
